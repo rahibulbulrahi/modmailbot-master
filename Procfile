@@ -1,1 +1,1 @@
-Worker: node knexfile.js
+Worker:node knexfile.js
